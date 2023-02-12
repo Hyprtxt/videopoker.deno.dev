@@ -1,0 +1,27 @@
+CACHE MANIFEST
+
+# app
+index.html
+
+# styles
+poker.css
+
+# javascript
+bundle.js
+
+# suits
+heart.svg
+club.svg
+diamond.svg
+spade.svg
+
+# icons
+ico/favicon.png
+ico/poker57.png
+ico/poker72.png
+ico/poker114.png
+ico/poker144.png
+ico/ipad-horizontal.png
+ico/ipad-retina-horizontal.png
+
+NETWORK:\n*\n
