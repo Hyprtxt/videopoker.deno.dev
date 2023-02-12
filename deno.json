@@ -1,5 +1,5 @@
 {
   "tasks": {
-    "start": "deno run -A main.js"
+    "start": "deno run -A main.s"
   }
 }
